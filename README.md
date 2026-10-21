@@ -1,17 +1,25 @@
-# fi_rst_emad
+# Prima Applicazione Flutter - Elaborato EMAD
 
-A new Flutter project.
+Questo repository contiene il progetto realizzato per il primo compito del corso **Enterprise Mobile Application Development (EMAD)**.
 
-## Getting Started
+## Descrizione del Progetto
+L'applicazione è un **Task Manager** (Gestore di Attività) interattivo sviluppato in Flutter. L'obiettivo dell'elaborato è dimostrare la corretta configurazione dell'ambiente di sviluppo, la personalizzazione dell'interfaccia utente e il deploy eseguito con successo su uno smartphone fisico (iPhone).
 
-This project is a starting point for a Flutter application.
+## Funzionalità
+*   **Identificazione:** L'AppBar riporta il nome e cognome dello sviluppatore ("Lino D'amora - Prima App") come richiesto dalla consegna.
+*   **Gestione Stato:** Utilizzo di `StatefulWidget` per l'aggiornamento dinamico dell'interfaccia.
+*   **Interattività:** Possibilità di aggiungere nuove attività tramite popup, marcare i task completati sbarrandoli e rimuoverli dalla lista tramite l'apposito pulsante.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot dell'Applicazione
+Di seguito l'applicazione in esecuzione nativa su dispositivo fisico:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<img width="738" height="1600" alt="screen" src="https://github.com/user-attachments/assets/7169a2cc-8c44-454a-92a7-a7513a54eec6" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Tecnologie Utilizzate
+*   **Framework:** Flutter
+*   **Linguaggio:** Dart
+*   **Target di Deploy:** iOS (iPhone Fisico)
+
+---
+**Sviluppato da:** Lino D'amora
