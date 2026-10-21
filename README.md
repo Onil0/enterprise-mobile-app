@@ -1,6 +1,5 @@
 # Prima Applicazione Flutter - Elaborato EMAD
 
-Questo repository contiene il progetto realizzato per il primo compito del corso **Enterprise Mobile Application Development (EMAD)**.
 
 ## Descrizione del Progetto
 L'applicazione è un **Task Manager** (Gestore di Attività) interattivo sviluppato in Flutter. L'obiettivo dell'elaborato è dimostrare la corretta configurazione dell'ambiente di sviluppo, la personalizzazione dell'interfaccia utente e il deploy eseguito con successo su uno smartphone fisico (iPhone).
